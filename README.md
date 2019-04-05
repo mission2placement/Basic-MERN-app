@@ -11,12 +11,11 @@ In the project directory, you can run:
 Navigate inside the client folder. <br>
 Install the dependencies from package.json.<br>
               `npm install`<br>
-Run `npm start` and it will start the server at<br>
+Run `npm start` inside the /client folder and it will start the server at<br>
 [http://localhost:3000](http://localhost:3000)
 
 ### `node server`
 
-Navigate inside the backend folder.<br>
 Install the dependencies from package.json.<br>
               npm install<br>
 Run `node server` and it will start the server at<br>
@@ -24,4 +23,4 @@ Run `node server` and it will start the server at<br>
 
 ### Note
 The two development server will be running in two different terminals.
-MongoDB server also needs to be running in your system for this application to work.
+`MongoDB server` also needs to be running in your system for this application to work.
