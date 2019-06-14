@@ -4,6 +4,7 @@ const bodyParser = require("body-parser");
 const logger = require("morgan");
 const router = require("./routes/api")
 
+// The port number is 3001
 const API_PORT = 3001;
 const app = express();
 
